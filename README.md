@@ -33,7 +33,7 @@ More repositories are coming soon! I'm actively working on **React-based project
 
 ## 📬 Let's Connect
 
-- 🌐 **Portfolio**: [priscilla-haibara-portfolio.netlify.app](https://priscilla-haibara-portfolio.netlify.app/)
+- 🌐 **Portfolio**: [priscillahaibara.netlify.app/](https://priscillahaibara.netlify.app/)
 - 💼 **LinkedIn**: [linkedin.com/in/priscillahaibara](https://www.linkedin.com/in/priscillahaibara/)
 
 ---
